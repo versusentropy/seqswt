@@ -2,7 +2,7 @@
 
 ## v0.9
 
-Label 2 and 3 at the switch are reversed.
+Known bug: Label 2 and 3 at the switch are reversed.
 
   * 4hp
   * +/-12V 10mA/1mA
@@ -15,7 +15,7 @@ Label 2 and 3 at the switch are reversed.
   * reset input
     * move to step 1
     * locked on step 1, while gate high.
-<img align="right" src="doc/pcb.jpg" alt="pcb" width="75vh"/>
+<!--<img align="right" src="doc/pcb.jpg" alt="pcb" width="75vh"/>-->
 <img align="right" src="doc/seqswt.jpg" alt="panel" width="100vh"/>
 <img align="right" src="doc/pcb-layout.png" alt="pcb" width="100vh"/>
 
